@@ -75,7 +75,7 @@ img:hover{
     background-color:#0c0937 ;
     color:rgb(247, 135, 135) ;
     line-height: 50px;
-    margin-left: 360px;
+   // margin-left: 360px;
     margin-top: 5px;
     font-size: 2rem;
 }
