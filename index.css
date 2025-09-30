@@ -71,7 +71,7 @@ img:hover{
 
 .msg-container{
     height: 70px;
-    width: 425px;
+    width: 525px;
     background-color:#0c0937 ;
     color:rgb(247, 135, 135) ;
     line-height: 50px;
@@ -79,4 +79,5 @@ img:hover{
     margin-top: 5px;
     font-size: 2rem;
 }
+
 
